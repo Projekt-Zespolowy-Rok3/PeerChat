@@ -1,4 +1,4 @@
-package com.example.peerchat.ui.theme
+package com.example.peerchat.presentation.common
 
 import androidx.compose.ui.graphics.Color
 
